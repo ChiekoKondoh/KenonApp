@@ -11,10 +11,25 @@
 - **状態の視覚化：** 自分の体温を経時的に観察・記録することで視覚化され、自身の体や病気について知るきっかけになる。入院中から自己管理を継続できる。
 - **適切なコミュニケーション：** 異常時は早期にナースコールが押せる。（遠慮して呼べない患者の背中を押す）正常時は安心材料となる。
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7faffd12-d434-4a52-99e2-e64b6abe2025" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/96478507-6ded-46a1-a7d0-74b3f3ca9c94" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1fe55213-d664-4149-a18d-824cae8facc3" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3d1e46e4-c3e6-41b9-aa07-ac87fcff9aea" />
+
+
 #### (２)看護師側のメリットと効果：看護の質を向上、業務の再構築と時間の創出
 
 - **優先順位の可視化：** 看護師が病室を訪問する前に患者の情報（体温）が得られ、優先順位を付けて患者の状態観察に回れる。優先順位が高い人から検温に回れる。
 - **呼び出し（ナースコール）の適正化と対話時間の最大化：** 不必要なコールは減り、必要な時にナースコールで知らせてくれることで、看護師の業務に時間的余裕が生まれる。患者の大事なIC（治療の意思決定や延命処置など）に集中して対応できる。患者カンファレンスを勤務時間内に実施できる。
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/9c556444-c538-44fc-b3ab-46cdbc72ae10" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5ea455d0-b726-4cb2-a9af-b904674922b5" />
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/ae586c14-a4c9-44fd-9bbd-7095e8778d13" />
 
 ### 2．技術構成
     Java、JSP、H2 Datebase 、MVCモデル
