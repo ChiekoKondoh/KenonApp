@@ -1,6 +1,10 @@
 # KenonApp
 本アプリは、「入院患者のセルフモニタリング」と「看護業務の効率化・質の向上」を両立させることを目的としています。
 
+<p align="center">
+    <img width="400" alt="image" src="https://github.com/user-attachments/assets/4018a786-6cde-448f-a570-d6aedf69f5ba" />
+
+
 ### 1．概要
 #### (１)患者側のメリットと効果：自己管理の可視化による治療への積極的参加
 
