@@ -41,22 +41,26 @@
   <br>患者選択　⇔　患者個人ごとの検温履歴の参照
   
 ### 4．アーキテクチャ図
-<img width="991" height="791" alt="KAP-ログイン成功時 drawio (1)" src="https://github.com/user-attachments/assets/770d9202-8100-413c-bb82-70f0cd7c07b5" />
+<img width="991" height="791" alt="KAP-ログイン成功時 drawio" src="https://github.com/user-attachments/assets/4a6e50e1-a194-4738-b3ef-72c4573bc777" />
 
 ---
 
-<img width="1052" height="851" alt="KAP-患者側 drawio" src="https://github.com/user-attachments/assets/8006c80e-2567-42a0-8910-2839ba123703" />
+<img width="991" height="791" alt="KAP-ログイン成功時 drawio" src="https://github.com/user-attachments/assets/880b6f59-d6ee-47c9-9a98-9500b9db0e47" />
 
 ---
 
-<img width="1046" height="421" alt="KAP-看護師側・全患者表示 drawio" src="https://github.com/user-attachments/assets/c16709ba-a658-4088-9067-91bf35fe5694" />
+<img width="1046" height="421" alt="KAP-看護師側・全患者表示 drawio (1)" src="https://github.com/user-attachments/assets/a3ff7137-71f0-4975-bafd-d4944dd43164" />
 
 ---
 
-<img width="1206" height="791" alt="KAP-看護師側・患者個別選択 drawio" src="https://github.com/user-attachments/assets/6ab0be60-0e60-4c1f-a01f-0b0d6c4fd6c6" />
+<img width="1207" height="791" alt="KAP-看護師側・患者個別選択 drawio (1)" src="https://github.com/user-attachments/assets/06052b99-e1fe-4267-9793-ed67f368af23" />
 
 ---
 
 ### 5.DB設計
+<img src="https://github.com/user-attachments/assets/8ee2c658-7b35-4b23-b297-8177fe3f40ae" width="500" alt="DB( KenonApp )">
 
+---
+
+<img src="https://github.com/user-attachments/assets/69f48418-40cd-4af9-8bb9-b5a58922f223" width="500" alt="ファイル一覧( KenonApp )"/>
 
