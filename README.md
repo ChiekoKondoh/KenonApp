@@ -1,0 +1,66 @@
+# KenonApp
+本アプリは、「入院患者のセルフモニタリング」と「看護業務の効率化・質の向上」を両立させることを目的としています。
+
+<p align="center">
+    <img width="400" alt="image" src="https://github.com/user-attachments/assets/4018a786-6cde-448f-a570-d6aedf69f5ba" />
+
+
+### 1．概要
+#### (１)患者側のメリットと効果：自己管理の可視化による治療への積極的参加
+
+- **状態の視覚化：** 自分の体温を経時的に観察・記録することで視覚化され、自身の体や病気について知るきっかけになる。入院中から自己管理を継続できる。
+- **適切なコミュニケーション：** 異常時は早期にナースコールが押せる。（遠慮して呼べない患者の背中を押す）正常時は安心材料となる。
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7faffd12-d434-4a52-99e2-e64b6abe2025" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/96478507-6ded-46a1-a7d0-74b3f3ca9c94" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1fe55213-d664-4149-a18d-824cae8facc3" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3d1e46e4-c3e6-41b9-aa07-ac87fcff9aea" />
+
+
+#### (２)看護師側のメリットと効果：看護の質を向上、業務の再構築と時間の創出
+
+- **優先順位の可視化：** 看護師が病室を訪問する前に患者の情報（体温）が得られ、優先順位を付けて患者の状態観察に回れる。優先順位が高い人から検温に回れる。
+- **呼び出し（ナースコール）の適正化と対話時間の最大化：** 不必要なコールは減り、必要な時にナースコールで知らせてくれることで、看護師の業務に時間的余裕が生まれる。患者の大事なIC（治療の意思決定や延命処置など）に集中して対応できる。患者カンファレンスを勤務時間内に実施できる。
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/9c556444-c538-44fc-b3ab-46cdbc72ae10" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5ea455d0-b726-4cb2-a9af-b904674922b5" />
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/ae586c14-a4c9-44fd-9bbd-7095e8778d13" />
+
+### 2．技術構成
+    Java、JSP、H2 Datebase 、MVCモデル
+
+### 3．こだわった点
+- 患者および看護師が使いやすいように、動作に沿った画面遷移を設計した。
+  <br>患者：体温入力後　⇒　検温履歴の参照
+  <br>看護師：全体患者　⇒　担当患者の選択　
+  <br>患者選択　⇔　患者個人ごとの検温履歴の参照
+  
+### 4．アーキテクチャ図
+<img width="991" height="791" alt="KAP-ログイン成功時 drawio" src="https://github.com/user-attachments/assets/4a6e50e1-a194-4738-b3ef-72c4573bc777" />
+
+---
+
+<img width="991" height="791" alt="KAP-ログイン成功時 drawio" src="https://github.com/user-attachments/assets/880b6f59-d6ee-47c9-9a98-9500b9db0e47" />
+
+---
+
+<img width="1046" height="421" alt="KAP-看護師側・全患者表示 drawio (1)" src="https://github.com/user-attachments/assets/a3ff7137-71f0-4975-bafd-d4944dd43164" />
+
+---
+
+<img width="1207" height="791" alt="KAP-看護師側・患者個別選択 drawio (1)" src="https://github.com/user-attachments/assets/06052b99-e1fe-4267-9793-ed67f368af23" />
+
+---
+
+### 5.DB設計
+<img src="https://github.com/user-attachments/assets/8ee2c658-7b35-4b23-b297-8177fe3f40ae" width="500" alt="DB( KenonApp )">
+
+---
+
+<img src="https://github.com/user-attachments/assets/69f48418-40cd-4af9-8bb9-b5a58922f223" width="500" alt="ファイル一覧( KenonApp )"/>
+
