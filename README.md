@@ -45,7 +45,8 @@
 
 ---
 
-<img width="991" height="791" alt="KAP-ログイン成功時 drawio" src="https://github.com/user-attachments/assets/880b6f59-d6ee-47c9-9a98-9500b9db0e47" />
+<img width="1052" height="851" alt="KAP-患者側 drawio (2)" src="https://github.com/user-attachments/assets/50dc3515-cef9-4049-95ff-1c054140dbda" />
+
 
 ---
 
